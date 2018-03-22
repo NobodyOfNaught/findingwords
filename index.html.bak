@@ -1,0 +1,9 @@
+<html> <body>
+hello word
+
+<form action="">
+  Word: <input type="text" name="word">
+  <input type="submit" value="Submit">
+</form>
+</body>
+</html>
